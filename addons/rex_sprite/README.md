@@ -1,3 +1,5 @@
+![Screenshot goes here](https://i.imgur.com/KIB2yD0.png)
+
 A custom node for displaying REXPaint xp ANSI images.
 
 
